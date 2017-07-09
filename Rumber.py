@@ -1,7 +1,7 @@
 import random
 print("Rumber v.0.3.2")
 print("Rumber gives you a random number from the range that you choose. It's under development.")
-print("Main developer: Luis Morniroli")
+print("Main developer: @Lupyso_")
 def xagain():
     x=int(input("Insert the first number: "))
     y=int(input("Insert the second number: "))
